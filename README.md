@@ -1,3 +1,3 @@
 # Evergreen-BookStore-Platform
-Major Project 
+Major Project </br>
 Project file is in the master branch.
